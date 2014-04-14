@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/OFFWNDWB.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c362_-349_269"
+		"$crackmaterial"		"maps/ttt_whitehouse_b2/glass/glasswindowbreak070b_362_-349_269"
+	}
+}

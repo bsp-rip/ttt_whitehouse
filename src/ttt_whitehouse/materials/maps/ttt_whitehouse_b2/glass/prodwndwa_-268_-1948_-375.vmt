@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/PRODWNDWA.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c-268_-1948_-375"
+		"$crackmaterial"		"maps/ttt_whitehouse_b2/glass/glasswindowbreak070b_-268_-1948_-375"
+	}
+}

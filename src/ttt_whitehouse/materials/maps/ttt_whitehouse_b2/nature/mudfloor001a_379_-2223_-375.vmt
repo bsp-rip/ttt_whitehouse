@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/MUDFLOOR001A.vmt"
+	"replace"
+	{
+		"LightmappedGeneric_DX9"
+		{
+			"$envmap"		"maps/ttt_whitehouse_b2/c379_-2223_-375"
+		}
+	}
+}

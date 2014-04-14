@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_NUKE/NUKWINDOWB_LIGHT.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c400_-159_136"
+	}
+}

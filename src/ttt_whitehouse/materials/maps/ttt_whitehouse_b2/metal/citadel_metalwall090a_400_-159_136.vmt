@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_METALWALL090A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c400_-159_136"
+	}
+}

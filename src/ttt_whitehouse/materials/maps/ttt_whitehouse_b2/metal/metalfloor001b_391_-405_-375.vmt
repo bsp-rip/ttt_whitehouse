@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALFLOOR001B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c391_-405_-375"
+	}
+}

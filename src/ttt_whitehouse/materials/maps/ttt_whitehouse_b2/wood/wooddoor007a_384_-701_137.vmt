@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/WOODDOOR007A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c384_-701_137"
+	}
+}

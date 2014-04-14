@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_PIRANESI/PI_SIGNEX5.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c385_-1606_-375"
+	}
+}

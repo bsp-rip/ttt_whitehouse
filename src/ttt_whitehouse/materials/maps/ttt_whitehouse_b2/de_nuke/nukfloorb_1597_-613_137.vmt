@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_NUKE/NUKFLOORB.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c1597_-613_137"
+	}
+}

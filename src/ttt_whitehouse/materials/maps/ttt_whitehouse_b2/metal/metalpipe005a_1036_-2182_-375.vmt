@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALPIPE005A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c1036_-2182_-375"
+	}
+}

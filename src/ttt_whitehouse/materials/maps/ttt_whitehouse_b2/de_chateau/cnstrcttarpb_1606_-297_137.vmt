@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/DE_CHATEAU/CNSTRCTTARPB.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c1606_-297_137"
+	}
+}

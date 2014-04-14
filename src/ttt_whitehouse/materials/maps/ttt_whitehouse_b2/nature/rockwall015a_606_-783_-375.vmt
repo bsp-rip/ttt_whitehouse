@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/NATURE/ROCKWALL015A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_whitehouse_b2/c606_-783_-375"
+	}
+}
